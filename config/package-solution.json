@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "app-crud-client-side-solution",
+    "id": "0348ef4c-ff87-4a51-9a8d-f3ca1e9dd0db",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/app-crud.sppkg"
+  }
+}
